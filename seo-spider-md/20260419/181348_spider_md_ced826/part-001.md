@@ -1,0 +1,311 @@
+# 影视资料与视频资源索引
+
+- 批次编号: 181348_spider_md_ced826
+- 生成时间: 2026-04-19 18:13:48
+- 文件分片: 1/?
+- 链接数: 100
+- 说明: 本文件用于整理首页、分类、搜索、详情与相关资料入口，方便后续做资料分发与外部提交。
+
+## 首页/分类/搜索页
+
+- 标题: 剧酷网
+  - 链接: https://alarmsinstallers.com/
+  - host: `alarmsinstallers.com`
+- 标题: 分类首页
+  - 链接: https://alarmsinstallers.com/videotype-1
+  - host: `alarmsinstallers.com`
+- 标题: 电影分类入口
+  - 链接: https://alarmsinstallers.com/videotype/1-dian-ying
+  - host: `alarmsinstallers.com`
+- 标题: 电视剧分类入口
+  - 链接: https://alarmsinstallers.com/videotype/1-dian-shi-ju
+  - host: `alarmsinstallers.com`
+- 标题: 综艺分类入口
+  - 链接: https://alarmsinstallers.com/videotype/1-zong-yi
+  - host: `alarmsinstallers.com`
+- 标题: 动漫分类入口
+  - 链接: https://alarmsinstallers.com/videotype/1-dong-man
+  - host: `alarmsinstallers.com`
+- 标题: 短剧分类入口
+  - 链接: https://alarmsinstallers.com/videotype/1-duan-ju-da-quan
+  - host: `alarmsinstallers.com`
+- 标题: 剧酷网搜索结果
+  - 链接: https://alarmsinstallers.com/get-index?keyword=%E5%89%A7%E9%85%B7%E7%BD%91
+  - host: `alarmsinstallers.com`
+- 标题: 秉象影院
+  - 链接: https://caosheninan.com/
+  - host: `caosheninan.com`
+- 标题: 分类首页
+  - 链接: https://caosheninan.com/fenlei
+  - host: `caosheninan.com`
+- 标题: 电影分类入口
+  - 链接: https://caosheninan.com/fenlei/dian-ying
+  - host: `caosheninan.com`
+- 标题: 电视剧分类入口
+  - 链接: https://caosheninan.com/fenlei/dian-shi-ju
+  - host: `caosheninan.com`
+- 标题: 综艺分类入口
+  - 链接: https://caosheninan.com/fenlei/zong-yi
+  - host: `caosheninan.com`
+- 标题: 动漫分类入口
+  - 链接: https://caosheninan.com/fenlei/dong-man
+  - host: `caosheninan.com`
+- 标题: 短剧分类入口
+  - 链接: https://caosheninan.com/fenlei/duan-ju-da-quan
+  - host: `caosheninan.com`
+- 标题: 精品久久久久中文字幕电视剧免费播放搜索结果
+  - 链接: https://caosheninan.com/search?keyword=%E7%B2%BE%E5%93%81%E4%B9%85%E4%B9%85%E4%B9%85%E4%B9%85%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E7%94%B5%E8%A7%86%E5%89%A7%E5%85%8D%E8%B4%B9%E6%92%AD%E6%94%BE
+  - host: `caosheninan.com`
+- 标题: 叙学影视网
+  - 链接: https://chuanjiafeng.net/
+  - host: `chuanjiafeng.net`
+- 标题: 分类首页
+  - 链接: https://chuanjiafeng.net/leixing/index
+  - host: `chuanjiafeng.net`
+- 标题: 电影分类入口
+  - 链接: https://chuanjiafeng.net/leixing/dian-ying/index
+  - host: `chuanjiafeng.net`
+- 标题: 电视剧分类入口
+  - 链接: https://chuanjiafeng.net/leixing/dian-shi-ju/index
+  - host: `chuanjiafeng.net`
+- 标题: 综艺分类入口
+  - 链接: https://chuanjiafeng.net/leixing/zong-yi/index
+  - host: `chuanjiafeng.net`
+- 标题: 动漫分类入口
+  - 链接: https://chuanjiafeng.net/leixing/dong-man/index
+  - host: `chuanjiafeng.net`
+- 标题: 短剧分类入口
+  - 链接: https://chuanjiafeng.net/leixing/duan-ju-da-quan/index
+  - host: `chuanjiafeng.net`
+- 标题: 日韩欧美综合精品电影搜索结果
+  - 链接: https://chuanjiafeng.net/get.html?keyword=%E6%97%A5%E9%9F%A9%E6%AC%A7%E7%BE%8E%E7%BB%BC%E5%90%88%E7%B2%BE%E5%93%81%E7%94%B5%E5%BD%B1
+  - host: `chuanjiafeng.net`
+- 标题: 菜鸟臻榜
+  - 链接: https://cnzhenbang.com/
+  - host: `cnzhenbang.com`
+- 标题: 分类首页
+  - 链接: https://cnzhenbang.com/category
+  - host: `cnzhenbang.com`
+- 标题: 电影分类入口
+  - 链接: https://cnzhenbang.com/category/dian-ying
+  - host: `cnzhenbang.com`
+- 标题: 电视剧分类入口
+  - 链接: https://cnzhenbang.com/category/dian-shi-ju
+  - host: `cnzhenbang.com`
+- 标题: 综艺分类入口
+  - 链接: https://cnzhenbang.com/category/zong-yi
+  - host: `cnzhenbang.com`
+- 标题: 动漫分类入口
+  - 链接: https://cnzhenbang.com/category/dong-man
+  - host: `cnzhenbang.com`
+- 标题: 短剧分类入口
+  - 链接: https://cnzhenbang.com/category/duan-ju-da-quan
+  - host: `cnzhenbang.com`
+- 标题: 国产在线观看免费全集电视剧网站搜索结果
+  - 链接: https://cnzhenbang.com/query?keyword=%E5%9B%BD%E4%BA%A7%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%E5%85%8D%E8%B4%B9%E5%85%A8%E9%9B%86%E7%94%B5%E8%A7%86%E5%89%A7%E7%BD%91%E7%AB%99
+  - host: `cnzhenbang.com`
+- 标题: 东和影视
+  - 链接: https://codohealth.com/
+  - host: `codohealth.com`
+- 标题: 分类首页
+  - 链接: https://codohealth.com/leixing-index
+  - host: `codohealth.com`
+- 标题: 电影分类入口
+  - 链接: https://codohealth.com/leixing/dian-ying/1
+  - host: `codohealth.com`
+- 标题: 电视剧分类入口
+  - 链接: https://codohealth.com/leixing/dian-shi-ju/1
+  - host: `codohealth.com`
+- 标题: 综艺分类入口
+  - 链接: https://codohealth.com/leixing/zong-yi/1
+  - host: `codohealth.com`
+- 标题: 动漫分类入口
+  - 链接: https://codohealth.com/leixing/dong-man/1
+  - host: `codohealth.com`
+- 标题: 短剧分类入口
+  - 链接: https://codohealth.com/leixing/duan-ju-da-quan/1
+  - host: `codohealth.com`
+- 标题: 中文字幕在线电影网搜索结果
+  - 链接: https://codohealth.com/get-home?keyword=%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%BD%B1%E7%BD%91
+  - host: `codohealth.com`
+- 标题: 格拉尔影院
+  - 链接: https://glae.cc/
+  - host: `glae.cc`
+- 标题: 分类首页
+  - 链接: https://glae.cc/videotype/1
+  - host: `glae.cc`
+- 标题: 电影分类入口
+  - 链接: https://glae.cc/videotype/1/dian-ying
+  - host: `glae.cc`
+- 标题: 电视剧分类入口
+  - 链接: https://glae.cc/videotype/1/dian-shi-ju
+  - host: `glae.cc`
+- 标题: 综艺分类入口
+  - 链接: https://glae.cc/videotype/1/zong-yi
+  - host: `glae.cc`
+- 标题: 动漫分类入口
+  - 链接: https://glae.cc/videotype/1/dong-man
+  - host: `glae.cc`
+- 标题: 短剧分类入口
+  - 链接: https://glae.cc/videotype/1/duan-ju-da-quan
+  - host: `glae.cc`
+- 标题: 日韩剧在线观看高清版电视剧搜索结果
+  - 链接: https://glae.cc/get/keywords?keyword=%E6%97%A5%E9%9F%A9%E5%89%A7%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%E9%AB%98%E6%B8%85%E7%89%88%E7%94%B5%E8%A7%86%E5%89%A7
+  - host: `glae.cc`
+- 标题: 古乐影视
+  - 链接: https://gulenyuzlercocukevi.com/
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 分类首页
+  - 链接: https://gulenyuzlercocukevi.com/genres/index
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 电影分类入口
+  - 链接: https://gulenyuzlercocukevi.com/genres/dian-ying/index
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 电视剧分类入口
+  - 链接: https://gulenyuzlercocukevi.com/genres/dian-shi-ju/index
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 综艺分类入口
+  - 链接: https://gulenyuzlercocukevi.com/genres/zong-yi/index
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 动漫分类入口
+  - 链接: https://gulenyuzlercocukevi.com/genres/dong-man/index
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 短剧分类入口
+  - 链接: https://gulenyuzlercocukevi.com/genres/duan-ju-da-quan/index
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 古乐影视搜索结果
+  - 链接: https://gulenyuzlercocukevi.com/get.html?keyword=%E5%8F%A4%E4%B9%90%E5%BD%B1%E8%A7%86
+  - host: `gulenyuzlercocukevi.com`
+- 标题: 宏壮影院
+  - 链接: https://gxhongzhuang.com/
+  - host: `gxhongzhuang.com`
+- 标题: 分类首页
+  - 链接: https://gxhongzhuang.com/fenlei/p
+  - host: `gxhongzhuang.com`
+- 标题: 电影分类入口
+  - 链接: https://gxhongzhuang.com/fenlei/p/dian-ying
+  - host: `gxhongzhuang.com`
+- 标题: 电视剧分类入口
+  - 链接: https://gxhongzhuang.com/fenlei/p/dian-shi-ju
+  - host: `gxhongzhuang.com`
+- 标题: 综艺分类入口
+  - 链接: https://gxhongzhuang.com/fenlei/p/zong-yi
+  - host: `gxhongzhuang.com`
+- 标题: 动漫分类入口
+  - 链接: https://gxhongzhuang.com/fenlei/p/dong-man
+  - host: `gxhongzhuang.com`
+- 标题: 短剧分类入口
+  - 链接: https://gxhongzhuang.com/fenlei/p/duan-ju-da-quan
+  - host: `gxhongzhuang.com`
+- 标题: 91视频在线免费观看搜索结果
+  - 链接: https://gxhongzhuang.com/search/home?keyword=91%E8%A7%86%E9%A2%91%E5%9C%A8%E7%BA%BF%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B
+  - host: `gxhongzhuang.com`
+- 标题: 光棍影院
+  - 链接: https://gz-yxsw.com/
+  - host: `gz-yxsw.com`
+- 标题: 分类首页
+  - 链接: https://gz-yxsw.com/videotype/1
+  - host: `gz-yxsw.com`
+- 标题: 电影分类入口
+  - 链接: https://gz-yxsw.com/videotype/1/dian-ying
+  - host: `gz-yxsw.com`
+- 标题: 电视剧分类入口
+  - 链接: https://gz-yxsw.com/videotype/1/dian-shi-ju
+  - host: `gz-yxsw.com`
+- 标题: 综艺分类入口
+  - 链接: https://gz-yxsw.com/videotype/1/zong-yi
+  - host: `gz-yxsw.com`
+- 标题: 动漫分类入口
+  - 链接: https://gz-yxsw.com/videotype/1/dong-man
+  - host: `gz-yxsw.com`
+- 标题: 短剧分类入口
+  - 链接: https://gz-yxsw.com/videotype/1/duan-ju-da-quan
+  - host: `gz-yxsw.com`
+- 标题: 欧美日韩精品在线观看搜索结果
+  - 链接: https://gz-yxsw.com/get/keywords?keyword=%E6%AC%A7%E7%BE%8E%E6%97%A5%E9%9F%A9%E7%B2%BE%E5%93%81%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B
+  - host: `gz-yxsw.com`
+- 标题: 飘雪影院
+  - 链接: https://hbczccq.com/
+  - host: `hbczccq.com`
+- 标题: 分类首页
+  - 链接: https://hbczccq.com/type-home
+  - host: `hbczccq.com`
+- 标题: 电影分类入口
+  - 链接: https://hbczccq.com/type/dian-ying-1
+  - host: `hbczccq.com`
+- 标题: 电视剧分类入口
+  - 链接: https://hbczccq.com/type/dian-shi-ju-1
+  - host: `hbczccq.com`
+- 标题: 综艺分类入口
+  - 链接: https://hbczccq.com/type/zong-yi-1
+  - host: `hbczccq.com`
+- 标题: 动漫分类入口
+  - 链接: https://hbczccq.com/type/dong-man-1
+  - host: `hbczccq.com`
+- 标题: 短剧分类入口
+  - 链接: https://hbczccq.com/type/duan-ju-da-quan-1
+  - host: `hbczccq.com`
+- 标题: 国产精品亚洲综合飘雪日本高清免费观看电视剧搜索结果
+  - 链接: https://hbczccq.com/find-keywords?keyword=%E5%9B%BD%E4%BA%A7%E7%B2%BE%E5%93%81%E4%BA%9A%E6%B4%B2%E7%BB%BC%E5%90%88%E9%A3%98%E9%9B%AA%E6%97%A5%E6%9C%AC%E9%AB%98%E6%B8%85%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7
+  - host: `hbczccq.com`
+- 标题: 环游记
+  - 链接: https://hyjssb.com/
+  - host: `hyjssb.com`
+- 标题: 分类首页
+  - 链接: https://hyjssb.com/genres/home
+  - host: `hyjssb.com`
+- 标题: 电影分类入口
+  - 链接: https://hyjssb.com/genres/dian-ying/home
+  - host: `hyjssb.com`
+- 标题: 电视剧分类入口
+  - 链接: https://hyjssb.com/genres/dian-shi-ju/home
+  - host: `hyjssb.com`
+- 标题: 综艺分类入口
+  - 链接: https://hyjssb.com/genres/zong-yi/home
+  - host: `hyjssb.com`
+- 标题: 动漫分类入口
+  - 链接: https://hyjssb.com/genres/dong-man/home
+  - host: `hyjssb.com`
+- 标题: 短剧分类入口
+  - 链接: https://hyjssb.com/genres/duan-ju-da-quan/home
+  - host: `hyjssb.com`
+- 标题: 中文在线字幕免费观看电视剧搜索结果
+  - 链接: https://hyjssb.com/get/index?keyword=%E4%B8%AD%E6%96%87%E5%9C%A8%E7%BA%BF%E5%AD%97%E5%B9%95%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E7%94%B5%E8%A7%86%E5%89%A7
+  - host: `hyjssb.com`
+- 标题: 京淅发影院
+  - 链接: https://jingxifa.com/
+  - host: `jingxifa.com`
+- 标题: 分类首页
+  - 链接: https://jingxifa.com/videotype-1
+  - host: `jingxifa.com`
+- 标题: 电影分类入口
+  - 链接: https://jingxifa.com/videotype/1-dian-ying
+  - host: `jingxifa.com`
+- 标题: 电视剧分类入口
+  - 链接: https://jingxifa.com/videotype/1-dian-shi-ju
+  - host: `jingxifa.com`
+- 标题: 综艺分类入口
+  - 链接: https://jingxifa.com/videotype/1-zong-yi
+  - host: `jingxifa.com`
+- 标题: 动漫分类入口
+  - 链接: https://jingxifa.com/videotype/1-dong-man
+  - host: `jingxifa.com`
+- 标题: 短剧分类入口
+  - 链接: https://jingxifa.com/videotype/1-duan-ju-da-quan
+  - host: `jingxifa.com`
+- 标题: 日韩欧美中文字幕电影日韩精品极品视频在线观看免费搜索结果
+  - 链接: https://jingxifa.com/get-index?keyword=%E6%97%A5%E9%9F%A9%E6%AC%A7%E7%BE%8E%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%E7%94%B5%E5%BD%B1%E6%97%A5%E9%9F%A9%E7%B2%BE%E5%93%81%E6%9E%81%E5%93%81%E8%A7%86%E9%A2%91%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B%E5%85%8D%E8%B4%B9
+  - host: `jingxifa.com`
+- 标题: 天堂影院
+  - 链接: https://jpjdxs.com/
+  - host: `jpjdxs.com`
+- 标题: 分类首页
+  - 链接: https://jpjdxs.com/videotype-1
+  - host: `jpjdxs.com`
+- 标题: 电影分类入口
+  - 链接: https://jpjdxs.com/videotype/1-dian-ying
+  - host: `jpjdxs.com`
+- 标题: 电视剧分类入口
+  - 链接: https://jpjdxs.com/videotype/1-dian-shi-ju
+  - host: `jpjdxs.com`
+
