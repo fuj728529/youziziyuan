@@ -1,0 +1,358 @@
+{
+    "run_id": "195919_spider_md_263b46",
+    "generated_at": "2026-04-19T20:00:51+08:00",
+    "status": "success",
+    "error": "",
+    "items": [
+        {
+            "file_name": "part-001.md",
+            "remote_path": "seo-spider-md/part-001.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-001.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-001.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-001.md"
+        },
+        {
+            "file_name": "part-002.md",
+            "remote_path": "seo-spider-md/part-002.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-002.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-002.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-002.md"
+        },
+        {
+            "file_name": "part-003.md",
+            "remote_path": "seo-spider-md/part-003.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-003.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-003.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-003.md"
+        },
+        {
+            "file_name": "part-004.md",
+            "remote_path": "seo-spider-md/part-004.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-004.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-004.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-004.md"
+        },
+        {
+            "file_name": "part-005.md",
+            "remote_path": "seo-spider-md/part-005.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-005.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-005.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-005.md"
+        },
+        {
+            "file_name": "part-006.md",
+            "remote_path": "seo-spider-md/part-006.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-006.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-006.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-006.md"
+        },
+        {
+            "file_name": "part-007.md",
+            "remote_path": "seo-spider-md/part-007.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-007.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-007.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-007.md"
+        },
+        {
+            "file_name": "part-008.md",
+            "remote_path": "seo-spider-md/part-008.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-008.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-008.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-008.md"
+        },
+        {
+            "file_name": "part-009.md",
+            "remote_path": "seo-spider-md/part-009.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-009.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-009.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-009.md"
+        },
+        {
+            "file_name": "part-010.md",
+            "remote_path": "seo-spider-md/part-010.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-010.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-010.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-010.md"
+        },
+        {
+            "file_name": "part-011.md",
+            "remote_path": "seo-spider-md/part-011.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-011.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-011.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-011.md"
+        },
+        {
+            "file_name": "part-012.md",
+            "remote_path": "seo-spider-md/part-012.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-012.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-012.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-012.md"
+        },
+        {
+            "file_name": "part-013.md",
+            "remote_path": "seo-spider-md/part-013.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-013.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-013.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-013.md"
+        },
+        {
+            "file_name": "part-014.md",
+            "remote_path": "seo-spider-md/part-014.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-014.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-014.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-014.md"
+        },
+        {
+            "file_name": "part-015.md",
+            "remote_path": "seo-spider-md/part-015.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-015.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-015.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-015.md"
+        },
+        {
+            "file_name": "part-016.md",
+            "remote_path": "seo-spider-md/part-016.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-016.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-016.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-016.md"
+        },
+        {
+            "file_name": "part-017.md",
+            "remote_path": "seo-spider-md/part-017.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-017.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-017.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-017.md"
+        },
+        {
+            "file_name": "part-018.md",
+            "remote_path": "seo-spider-md/part-018.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-018.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-018.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-018.md"
+        },
+        {
+            "file_name": "part-019.md",
+            "remote_path": "seo-spider-md/part-019.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-019.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-019.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-019.md"
+        },
+        {
+            "file_name": "part-020.md",
+            "remote_path": "seo-spider-md/part-020.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-020.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-020.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-020.md"
+        },
+        {
+            "file_name": "part-021.md",
+            "remote_path": "seo-spider-md/part-021.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-021.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-021.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-021.md"
+        },
+        {
+            "file_name": "part-022.md",
+            "remote_path": "seo-spider-md/part-022.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-022.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-022.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-022.md"
+        },
+        {
+            "file_name": "part-023.md",
+            "remote_path": "seo-spider-md/part-023.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-023.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-023.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-023.md"
+        },
+        {
+            "file_name": "part-024.md",
+            "remote_path": "seo-spider-md/part-024.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-024.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-024.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-024.md"
+        },
+        {
+            "file_name": "part-025.md",
+            "remote_path": "seo-spider-md/part-025.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-025.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-025.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-025.md"
+        },
+        {
+            "file_name": "part-026.md",
+            "remote_path": "seo-spider-md/part-026.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-026.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-026.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-026.md"
+        },
+        {
+            "file_name": "part-027.md",
+            "remote_path": "seo-spider-md/part-027.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-027.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-027.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-027.md"
+        },
+        {
+            "file_name": "part-028.md",
+            "remote_path": "seo-spider-md/part-028.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-028.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-028.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-028.md"
+        },
+        {
+            "file_name": "part-029.md",
+            "remote_path": "seo-spider-md/part-029.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-029.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-029.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-029.md"
+        },
+        {
+            "file_name": "part-030.md",
+            "remote_path": "seo-spider-md/part-030.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-030.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-030.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-030.md"
+        },
+        {
+            "file_name": "part-031.md",
+            "remote_path": "seo-spider-md/part-031.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-031.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-031.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-031.md"
+        },
+        {
+            "file_name": "part-032.md",
+            "remote_path": "seo-spider-md/part-032.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-032.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-032.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-032.md"
+        },
+        {
+            "file_name": "part-033.md",
+            "remote_path": "seo-spider-md/part-033.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-033.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-033.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-033.md"
+        },
+        {
+            "file_name": "part-034.md",
+            "remote_path": "seo-spider-md/part-034.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-034.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-034.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-034.md"
+        },
+        {
+            "file_name": "part-035.md",
+            "remote_path": "seo-spider-md/part-035.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-035.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-035.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-035.md"
+        },
+        {
+            "file_name": "part-036.md",
+            "remote_path": "seo-spider-md/part-036.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-036.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-036.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-036.md"
+        },
+        {
+            "file_name": "part-037.md",
+            "remote_path": "seo-spider-md/part-037.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-037.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-037.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-037.md"
+        },
+        {
+            "file_name": "part-038.md",
+            "remote_path": "seo-spider-md/part-038.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-038.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-038.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-038.md"
+        },
+        {
+            "file_name": "part-039.md",
+            "remote_path": "seo-spider-md/part-039.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-039.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-039.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-039.md"
+        },
+        {
+            "file_name": "part-040.md",
+            "remote_path": "seo-spider-md/part-040.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-040.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-040.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-040.md"
+        },
+        {
+            "file_name": "part-041.md",
+            "remote_path": "seo-spider-md/part-041.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-041.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-041.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-041.md"
+        },
+        {
+            "file_name": "part-042.md",
+            "remote_path": "seo-spider-md/part-042.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-042.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-042.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-042.md"
+        },
+        {
+            "file_name": "part-043.md",
+            "remote_path": "seo-spider-md/part-043.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-043.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-043.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-043.md"
+        },
+        {
+            "file_name": "part-044.md",
+            "remote_path": "seo-spider-md/part-044.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-044.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-044.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-044.md"
+        },
+        {
+            "file_name": "part-045.md",
+            "remote_path": "seo-spider-md/part-045.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-045.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-045.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-045.md"
+        },
+        {
+            "file_name": "part-046.md",
+            "remote_path": "seo-spider-md/part-046.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-046.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-046.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-046.md"
+        },
+        {
+            "file_name": "part-047.md",
+            "remote_path": "seo-spider-md/part-047.md",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/part-047.md",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/part-047.md",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/part-047.md"
+        },
+        {
+            "file_name": "summary.json",
+            "remote_path": "seo-spider-md/summary.json",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/summary.json",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/summary.json",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/summary.json"
+        },
+        {
+            "file_name": "summary.html",
+            "remote_path": "seo-spider-md/summary.html",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/summary.html",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/summary.html",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/summary.html"
+        },
+        {
+            "file_name": "github-links.json",
+            "remote_path": "seo-spider-md/github-links.json",
+            "html_url": "https://github.com/fuj728529/youziziyuan/blob/main/seo-spider-md/github-links.json",
+            "download_url": "https://raw.githubusercontent.com/fuj728529/youziziyuan/main/seo-spider-md/github-links.json",
+            "local_path": "/www/wwwroot/diff-maccms/SEONexus/code/storage/spider_md_runs/active/github-links.json"
+        }
+    ]
+}
